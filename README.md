@@ -34,14 +34,14 @@ Requisitos do Projeto:
 
 ## Executando o projeto
 
-Para clonar o projeto, execute no terminal ou prompt o comando abaixo dentro do diretório padrão do servidor http da sua escolha, conforme requisitos:
+Para clonar o projeto, execute no terminal ou prompt o comando abaixo dentro do diretório padrão do servidor http da sua escolha:
 
 `git clone git@github.com:manoelps/Guia-Ponto-Turistico-HTML-CSS.git`
 
-## navegando
+## Navegando
 
 Agora o seu navegador e acesse a url correspondente ao projeto para verificar o funcionamento.
 
-## screenshot
+## Screenshot
 
 ![alt text](assets/screenshot/image.png)
