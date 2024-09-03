@@ -15,22 +15,22 @@ projeto para torná-lo atrativo e informativo.
 Requisitos do Projeto:
 
 1. HTML:
-   oCrie uma estrutura de página completa utilizando tags HTML apropriadas.
-   oInclua cabeçalhos, parágrafos, listas, links, imagens e vídeos.
-   oUse tags semânticas para melhorar a acessibilidade e SEO.
+   Crie uma estrutura de página completa utilizando tags HTML apropriadas.
+   Inclua cabeçalhos, parágrafos, listas, links, imagens e vídeos.
+   Use tags semânticas para melhorar a acessibilidade e SEO.
 
 2. CSS:
-   oPersonalize o layout e o estilo da página utilizando CSS.
-   oInclua regras de estilo para diferentes elementos HTML.
-   oUtilize cores, fontes, margens, paddings e outros recursos de design para
+   Personalize o layout e o estilo da página utilizando CSS.
+   Inclua regras de estilo para diferentes elementos HTML.
+   Utilize cores, fontes, margens, paddings e outros recursos de design para
    tornar a página visualmente atraente.
 
 3. Estrutura da Página:
-   oA página deve ter uma estrutura clara e organizada.
-   oInclua um cabeçalho com o título do ponto turístico.
-   oAdicione uma seção principal com uma descrição detalhada do ponto
+   A página deve ter uma estrutura clara e organizada.
+   Inclua um cabeçalho com o título do ponto turístico.
+   Adicione uma seção principal com uma descrição detalhada do ponto
    turístico, incluindo imagens e vídeos.
-   oInsira uma seção de rodapé com informações adicionais e créditos.
+   Insira uma seção de rodapé com informações adicionais e créditos.
 
 ## Executando o projeto
 
